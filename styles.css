@@ -79,7 +79,7 @@ div > grid-item{
 	font-size: 40px;
 }
 
-.grid-container{
+div>grid-container{
 	display: grid;
 	display: grid-gap;
 	display: flex;
